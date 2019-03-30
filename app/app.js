@@ -6,20 +6,6 @@ const platform = new H.service.Platform({
 // Retrieve the target element for the map:
 const targetElement = document.getElementById('mapContainer');
 
-//////////////////////////////
-/*function getLocation() {
-  if (navigator.geolocation) {
-    navigator.geolocation.getCurrentPosition(showPosition);
-    console.log('holi');
-  } else { 
-    x.innerHTML = "Geolocation is not supported by this browser.";
-  }
-  console.log('asdads');
-}
-function showPosition(position) {
-const myPos = {'lat': position.coords.latitude, 'lng': position.coords.longitude};
-console.log(myPos);
-}*/
 navigator.geolocation.getCurrentPosition(function(position) {
   console.log('jo');
 });
