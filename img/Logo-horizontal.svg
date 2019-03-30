@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="163.708" height="64.996" viewBox="0 0 163.708 64.996">
+  <g id="Logo-horizontal" transform="translate(-115.708 -484.02)">
+    <g id="PointGirl" transform="translate(158.416 514.016)">
+      <text id="PointGirl-2" data-name="PointGirl" transform="translate(0 28)" fill="#e61a81" font-size="31" font-family="Quantify"><tspan x="0" y="0">PointGirl</tspan></text>
+    </g>
+    <path id="Trazado_353" data-name="Trazado 353" d="M152.994,507.407a18.912,18.912,0,1,0-36.751,0,28.19,28.19,0,0,0,2.065,7.357c1.857,3.9,9.678,16.788,13.269,22.66-4.855.618-7.106,2.7-7.106,4.673,0,2.339,3.174,4.859,10.148,4.859s10.148-2.52,10.148-4.859c0-1.967-2.254-4.055-7.106-4.673,3.591-5.872,11.412-18.755,13.269-22.66A28.3,28.3,0,0,0,152.994,507.407ZM141.843,542.1c-.2.553-2.639,1.94-7.222,1.94-4.639,0-7.084-1.42-7.229-1.922.13-.484,2.124-1.676,5.892-1.913l.094.155a1.464,1.464,0,0,0,2.487,0c.016-.029.049-.085.092-.155C139.676,540.434,141.668,541.6,141.843,542.1Zm-20.9-28.587a26.045,26.045,0,0,1-1.83-6.633c-.007-.038-.013-.078-.022-.114a15.988,15.988,0,1,1,31.049,0,1.023,1.023,0,0,0-.022.114,26.1,26.1,0,0,1-1.828,6.629c-1.875,3.938-10.437,18-13.672,23.289-3.237-5.285-11.8-19.346-13.676-23.287Z" transform="translate(0 0)" fill="#5e62b3"/>
+    <path id="Trazado_354" data-name="Trazado 354" d="M131.5,486.364a13.278,13.278,0,1,0,13.278,13.278A13.277,13.277,0,0,0,131.5,486.364Z" transform="translate(3.118 2.907)" fill="#5e62b3" stroke="#fff" stroke-width="1"/>
+    <path id="Trazado_355" data-name="Trazado 355" d="M119.11,498.542A11.29,11.29,0,1,1,130.4,509.832h0A11.3,11.3,0,0,1,119.11,498.542Z" transform="translate(4.22 4.007)" fill="#e61a81"/>
+    <circle id="Elipse_29" data-name="Elipse 29" cx="1.55" cy="1.55" r="1.55" transform="translate(125.84 501.304)" fill="#fff"/>
+    <circle id="Elipse_30" data-name="Elipse 30" cx="1.55" cy="1.55" r="1.55" transform="translate(140.574 501.304)" fill="#fff"/>
+    <path id="Trazado_357" data-name="Trazado 357" d="M123.081,492.655a3,3,0,0,0,2.594,1.409,2.631,2.631,0,0,0,2.254-1.409" transform="translate(9.144 10.709)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+  </g>
+</svg>

@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="294.209" height="298.466" viewBox="0 0 294.209 298.466">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Trazado_156" data-name="Trazado 156" d="M2155.677,107.071c41.192-18.146,109.167,8.48,136.749-11.118s14.817,57.8,26.43,71.588,53.712,52.261,0,142.991-149.524,79.843-149.524,79.843-96.537,1.452-114.683-102.344c-5.807-52.987,2.9-60.971,15.969-72.584C2101.1,182.058,2114.486,125.217,2155.677,107.071Z" transform="translate(-177.816 -41.476)" fill="#e4e4e4"/>
+    </clipPath>
+    <filter id="Trazado_157" x="98.358" y="16.683" width="139.733" height="268.443" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0.085" stop-color="#fff" stop-opacity="0.969"/>
+      <stop offset="0.215" stop-color="#fff" stop-opacity="0.886"/>
+      <stop offset="0.374" stop-color="#fff" stop-opacity="0.749"/>
+      <stop offset="0.555" stop-color="#fff" stop-opacity="0.557"/>
+      <stop offset="0.756" stop-color="#fff" stop-opacity="0.314"/>
+      <stop offset="0.971" stop-color="#fff" stop-opacity="0.024"/>
+      <stop offset="0.986" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <g id="Grupo_314" data-name="Grupo 314" transform="translate(-41.5 -128.317)">
+    <path id="Trazado_143" data-name="Trazado 143" d="M2169.333,180.606c41.192-18.146,38.47-18.146,66.052-37.744s71.859,10.888,83.472,24.679,53.712,52.261,0,142.991-149.524,79.843-149.524,79.843-96.537,1.452-114.683-102.344c-5.807-52.987,2.9-60.971,15.969-72.584C2109.844,190.277,2128.141,198.752,2169.333,180.606Z" transform="translate(-2011.316 36)" fill="rgba(228,228,228,0.43)"/>
+    <g id="Enmascarar_grupo_2" data-name="Enmascarar grupo 2" transform="translate(-1832 77)" clip-path="url(#clip-path)">
+      <g id="Grupo_94" data-name="Grupo 94" transform="translate(1435.736 5.689)">
+        <g id="Grupo_93" data-name="Grupo 93" transform="translate(416.264 68.311)">
+          <g id="Grupo_82" data-name="Grupo 82" transform="translate(0 65.576)">
+            <path id="Trazado_144" data-name="Trazado 144" d="M544.69,156.137s-55.541,81.334-58.766,90.3c-5.38,14.938-26.211,42.623-26.211,42.623L416.264,331.6v52.266H450.43L499.45,328.8s24.254-21.018,31.576-21.018,24.164-2.043,33.862-18.043,29.3-45.1,31.583-48.845,17.435-14.065,17.435-14.065Z" transform="translate(-416.264 -156.137)" fill="#ffa480"/>
+            <path id="Trazado_145" data-name="Trazado 145" d="M588.662,179.36l-20.918,43.945a5.836,5.836,0,0,0,6.641,8.181l16.114-3.9Z" transform="translate(-454.494 -162.02)" fill="#ff7a70" opacity="0.3"/>
+          </g>
+          <g id="Grupo_85" data-name="Grupo 85" transform="translate(128.858)">
+            <g id="Grupo_84" data-name="Grupo 84">
+              <g id="Grupo_83" data-name="Grupo 83">
+                <g transform="matrix(1, 0, 0, 1, -107.36, -22.68)" filter="url(#Trazado_157)">
+                  <path id="Trazado_157-2" data-name="Trazado 157" d="M10,0H111.733a10,10,0,0,1,10,10V240.443a10,10,0,0,1-10,10H10a10,10,0,0,1-10-10V10A10,10,0,0,1,10,0Z" transform="translate(107.36 22.68)" fill="#fff"/>
+                </g>
+                <circle id="Elipse_15" data-name="Elipse 15" cx="9.465" cy="9.465" r="9.465" transform="matrix(0.973, -0.231, 0.231, 0.973, 49.933, 229.235)" fill="#969696"/>
+                <path id="Rectángulo_14" data-name="Rectángulo 14" d="M0,0H1.026a2.23,2.23,0,0,1,2.23,2.23V16.373a2.23,2.23,0,0,1-2.23,2.23H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(121.377 53.716)" fill="#e6e5e5"/>
+                <path id="Rectángulo_15" data-name="Rectángulo 15" d="M0,0H1.026a2.23,2.23,0,0,1,2.23,2.23V16.373a2.23,2.23,0,0,1-2.23,2.23H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(121.377 76.912)" fill="#e6e5e5"/>
+                <path id="Trazado_146" data-name="Trazado 146" d="M677.773,89.818h-22.22a1.618,1.618,0,0,1-1.618-1.618h0a1.618,1.618,0,0,1,1.618-1.618h22.22a1.618,1.618,0,0,1,1.618,1.618h0A1.618,1.618,0,0,1,677.773,89.818Z" transform="translate(-605.335 -72.94)" fill="#969696"/>
+                <rect id="Rectángulo_16" data-name="Rectángulo 16" width="111.153" height="192.076" transform="translate(4.713 29.765)" fill="#e2dcdc"/>
+                <path id="Trazado_147" data-name="Trazado 147" d="M599.156,298.278v-186.1h105.18Z" transform="translate(-591.457 -79.424)" opacity="0.46" fill="url(#linear-gradient)"/>
+              </g>
+            </g>
+          </g>
+          <g id="Grupo_89" data-name="Grupo 89" transform="translate(79.554 105.922)">
+            <g id="Grupo_88" data-name="Grupo 88">
+              <g id="Grupo_87" data-name="Grupo 87" transform="translate(-866.576 -309.315)">
+                <g id="Grupo_86" data-name="Grupo 86" transform="translate(-7 -69)">
+                  <circle id="Elipse_16" data-name="Elipse 16" cx="42" cy="42" r="42" transform="translate(940.524 327.499)" fill="#ff7a70"/>
+                  <circle id="Elipse_17" data-name="Elipse 17" cx="35.463" cy="35.463" r="35.463" transform="translate(946.793 334.036)" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="3"/>
+                  <text id="EMERGENCIA" transform="translate(957.524 372.499)" fill="#fff" font-size="8" font-family="Roboto-Black, Roboto" font-weight="800"><tspan x="0" y="0">EMERGENCIA</tspan></text>
+                </g>
+              </g>
+              <path id="Trazado_148" data-name="Trazado 148" d="M623.761,229.19s-31.907,45.691-46.482,67.182c-13,19.173-38.464,24.934-54.467,13.1Z" transform="translate(-522.812 -214.991)" fill="#ff7a70" opacity="0.4"/>
+              <path id="Trazado_149" data-name="Trazado 149" d="M563.51,238.114c10.108,0,46.609-25.476,47.462-26.072a9.186,9.186,0,1,1,9.884,15.421c-6.575,5.391-23.384,19.281-31.493,26.987-10.211,9.7-18.725,27.067-30.976,40.676s-35.575,9.532-35.575,9.532S553.279,238.114,563.51,238.114Z" transform="translate(-522.812 -210.173)" fill="#ffa480"/>
+            </g>
+            <path id="Trazado_150" data-name="Trazado 150" d="M649.284,216.948c3.737,4.909-3.188,9.366-8.168,13.169-2.554.107-7.323-5.666-6.693-8.79C641.3,216.083,646.241,212.939,649.284,216.948Z" transform="translate(-551.074 -211.429)" fill="#fefefe" opacity="0.7"/>
+          </g>
+          <g id="Grupo_92" data-name="Grupo 92" transform="translate(201.806 196.078)">
+            <g id="Grupo_91" data-name="Grupo 91" transform="translate(0 0)">
+              <g id="Grupo_90" data-name="Grupo 90">
+                <path id="Trazado_151" data-name="Trazado 151" d="M784.19,426.572c-19.406-24.935-76.849-91.537-76.849-91.537l45.116,96.141S791.086,435.432,784.19,426.572Z" transform="translate(-691.814 -331.963)" fill="#a09fa4" opacity="0.4"/>
+                <path id="Trazado_152" data-name="Trazado 152" d="M755.425,432.126c-10.864-19.09-24.627-48.955-30.631-58.49-5.96-9.466-16.271-28.68-20.263-36.187a9.187,9.187,0,1,0-17.064,6.657c.307.7,10.979,23.318,15.3,38.988.815,2.962,9.225,26.789,16.914,49.032Z" transform="translate(-686.545 -330.92)" fill="#ffa480"/>
+              </g>
+              <path id="Trazado_153" data-name="Trazado 153" d="M694.35,336.155c5.548-2.7,8.556,4.968,11.3,10.6-.4,2.525-7,6.065-9.935,4.833C691.932,343.808,689.82,338.35,694.35,336.155Z" transform="translate(-687.872 -332.105)" fill="#fefefe" opacity="0.7"/>
+            </g>
+            <path id="Trazado_154" data-name="Trazado 154" d="M831.17,451.244a59.135,59.135,0,0,0-21.781-14.089,38.35,38.35,0,0,0-16.759-2.131L755.7,438.378c-3.432-6.8-13.326-26.3-16.241-32-.3,5.813-2.835,10.545-8.77,12.108-2.014.531-14.489,1.891-15.527-1.1,3.262,9.4,7.619,21.855,11.767,33.854Z" transform="translate(-693.794 -350.038)" fill="#ff8a5c"/>
+          </g>
+          <path id="Trazado_155" data-name="Trazado 155" d="M769.453,448.454,775.3,461.4l17.8-15.057Z" transform="translate(-505.743 -164.083)" fill="#ff8a5c" opacity="0.28"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

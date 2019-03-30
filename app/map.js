@@ -36,11 +36,6 @@ const ui = new H.ui.UI.createDefault(map, defaultLayers);
 
 // ui.getControl('zoom').setEnabled(false);
 
-// Create the parameters for the geocoding request:
-var geocodingParams = {
-    searchText: '200 S Mathilda Ave, Sunnyvale, CA'
-  };
-
 // Define a callback function to process the geocoding response:
 var onResult = function(result) {
   var locations = result.Response.View[0].Result,
@@ -57,14 +52,3 @@ var onResult = function(result) {
   }
 };
 
-// Get an instance of the geocoding service:
-var geocoder = platform.getGeocodingService();
-
-// Call the geocode method with the geocoding parameters,
-// the callback and an error callback function (called if a
-// communication error occurs):
-geocoder.geocode(geocodingParams, onResult, function(e) {
-  alert(e);
-});
-/*
-*/

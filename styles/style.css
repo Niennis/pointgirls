@@ -1,4 +1,55 @@
+#intro{
+  width: 100%;
+}
+
+div.carousel-item h1{
+  color: black !important;
+  border: 1px solid salmon;
+  margin-top: 50px;
+}
+
+.intro-welcome{
+  margin: 10vh 20vw 10vh 20vw;
+  text-align: center;
+}
+
 #mapContainer{
   width: 800px; 
   height: 600px;
+}
+
+#intro-fade{
+  height: 100vh;
+  background-image: linear-gradient(purple, pink);
+}
+
+.logo{
+  width: 60vw;
+  padding-top: 20vh;
+}
+
+#intro-carousel{
+  height: 100vh;
+  padding-top: 10vh;
+  background-image: linear-gradient(white, white, pink);
+}
+
+.carousel-indicators .active{
+  background-color: purple;
+}
+
+.carousel-item{
+  height: 70vh;
+}
+
+div#intro-carousel img{
+  width: 80vw !important;
+}
+
+div.goto{
+  text-align: center;
+}
+
+div.goto a{
+  color: purple;
 }
